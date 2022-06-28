@@ -1,8 +1,7 @@
-### Oi! Seja bem-vindo(a) ao meu repositório! 
+### Oi! Seja bem-vindo(a) ao meu repositório! 😄
 
 
 - 📖 Atualmente tenho estudado Typescript e POO.
-- 😄 Pronouns: Ela/dela
 
 <br>
 
@@ -12,7 +11,7 @@
   <img height="150em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaPmeireles&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Eduarda-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eduarda-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Eduarda-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -23,7 +22,7 @@
 
 <br>
 
-<div> 
+<div align="center"> 
   <a href = "mailto:contatoeduardapmeireles@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "http://linkedin.com/in/eduardapmeireles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
