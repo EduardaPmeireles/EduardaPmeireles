@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/EduardaPmeireles">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaPmeireles&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaPmeireles&layout=compact&langs_count=7&theme=aura"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EduardaPmeireles&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaPmeireles&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,6 +25,5 @@
 
 <div> 
   <a href = "mailto:contatoeduardapmeireles@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="www.linkedin.com/in/eduardapmeireles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= "http://linkedin.com/in/eduardapmeireles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
