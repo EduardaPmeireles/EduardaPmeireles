@@ -1,8 +1,5 @@
 ### Oi! Seja bem-vindo(a) ao meu repositório! 😄
 
-
-- 📖 Atualmente tenho estudado Typescript e POO.
-
 <br>
 
 <div align="center">
