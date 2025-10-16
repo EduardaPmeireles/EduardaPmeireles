@@ -2,12 +2,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/EduardaPmeireles">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=EduardaPmeireles&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaPmeireles&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Eduarda-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eduarda-Ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
